@@ -1,0 +1,51 @@
+.btn{
+    border-radius: 5px;
+    padding: 5px 15px;
+} 
+.btn.btn-info{
+    background-color: #3B82F6;
+    color:#FFF;
+
+}
+.pull-right{
+    float:right;
+}
+.fw{
+    width:100%;
+}
+.mb-30{
+    margin-bottom: 30px;
+}
+
+.active{
+    background-color:aqua;
+}
+
+.text-bot{
+    float: right;
+    background-color: #E2ECFF;
+}
+.text-user{
+    background-color: #F7F7F7;
+    float:left;
+}
+.text-user, .text-bot{
+    width:70%;
+    border-radius: 5px;
+    padding:10px 15px;
+}
+.bloque_chat{
+    width:100% !important;
+}
+.bloque_chat .title{
+    font-weight: bold;
+}
+.time{
+    color:#666;
+    font-weight: lighter;
+    font-size: 11px;
+}
+.bloque_chat{
+    max-height: 500px;
+    overflow-y: auto !important;
+}
